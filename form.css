@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(203, 212, 223);
+    font-family: Arial, sans-serif;
+    color: black;
+    text-align: left;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+
+h2 {;
+    text-align: center;
+    text-decoration : underline;
+}
